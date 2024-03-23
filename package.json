@@ -1,0 +1,50 @@
+{
+  "name": "praesentiumillo",
+  "version": "1.0.0",
+  "description": "Material Design Ripple effect in pure JS & CSS. PaperRipple lets you add a Material Design ripple effect to UI elements.",
+  "main": "dist/PaperRipple.js",
+  "scripts": {
+    "test": "gulp ci --verbose"
+  },
+  "author": "ScarlettStrosin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaudieAltenwerth/praesentiumillo.git"
+  },
+  "keywords": [
+    "id",
+    "temporibus",
+    "reprehenderit",
+    "material design",
+    "quae",
+    "material design lite",
+    "voluptatem"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.24.1",
+    "babel-eslint": "^7.2.3",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-es2015-modules-systemjs": "^6.24.1",
+    "babel-plugin-transform-es2015-modules-umd": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "chai": "^4.0.0",
+    "del": "^2.2.2",
+    "esdoc-es7-plugin": "0.0.3",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-esdoc": "^0.3.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-header": "^1.8.8",
+    "gulp-iife": "^0.3.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-mocha-phantomjs": "^0.12.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^3.0.0",
+    "mocha": "^3.4.2",
+    "window.requestanimationframe": "^1.0.1"
+  }
+}
